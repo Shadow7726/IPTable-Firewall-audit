@@ -59,7 +59,7 @@ This tool requires root privileges to access system configurations. Use with cau
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/Shadow7726/firewall-analyzer/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/Shadow7726/IPTable-Firewall-audit/issues) if you want to contribute.
 
 ## Author
 
