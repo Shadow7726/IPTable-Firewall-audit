@@ -1,7 +1,7 @@
 
 # Firewall Analyzer Tool
 
-![Shadow Logo](logo.png)
+![Shadow Logo](https://github.com/Shadow7726/CAN-Protocol-Hacking/raw/main/ghost.png)
 
 ## Description
 
