@@ -42,7 +42,7 @@ The Firewall Analyzer Tool is a comprehensive Python-based utility designed to a
 Run the script with root privileges:
 
 ```
-sudo python3 firewall_analyzer.py
+sudo python3 iptable-firewall_audit.py
 ```
 
 Follow the on-screen menu to choose the desired analysis option.
@@ -65,26 +65,3 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 
 - GitHub: [@Shadow7726](https://github.com/Shadow7726)
 
-## License
-
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
-
-## Disclaimer
-
-This tool is for educational and professional use only. Always ensure you have proper authorization before running security analysis tools on any system or network.
-```
-
-This README.md file includes:
-
-1. **A brief description** of the tool.
-2. **An overview of its main features**.
-3. **System requirements** and installation instructions.
-4. **Usage guidelines**.
-5. Information about the **output**.
-6. A **caution note** about root privileges.
-7. Information on **how to contribute**.
-8. **Author information**.
-9. **License details**.
-10. A **disclaimer** for proper usage.
-
-You can save this as `README.md` in the root directory of your project. Remember to replace `logo.png` with an actual logo file if you have one, or remove that line if you don't. Adjust the GitHub links and other details to match your actual repository structure and preferences.
